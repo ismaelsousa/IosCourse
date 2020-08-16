@@ -1,1 +1,3 @@
 # IosCourse
+
+The first of the lectures given to Stanford University students who took CS193p, Developing Applications for iOS using SwiftUI, during Spring quarter of 2020.  Paul Hegarty covers the logistics of the course and then dives right into creating an iOS application (a card-matching game called Memorize).  The Xcode development environment is used to demonstrate the basics of SwiftUI’s declarative interface for composing user-interfaces.  Note that this is not an active, on-line course.  It is a release of lecture videos that were already given to Stanford students as part of its normal curriculum.
